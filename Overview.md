@@ -1,6 +1,6 @@
 ## Open Source > ToastUI Chart > Overview
 
-<img alt="toast ui chart" src="http://static.toastoven.net/prod_toastuichart/toast_ui_chart_title.png" style="border: 0">
+<img alt="toast ui chart" src="https://cloud.githubusercontent.com/assets/7088720/21300155/e52f31ae-c5e4-11e6-8d6a-d660a48d0d50.png" style="border: 0">
 ===============
 Toast UI Chart supports a easy way to draw various and essential charts on your web service.<br>
 
