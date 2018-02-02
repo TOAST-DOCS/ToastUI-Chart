@@ -1,4 +1,4 @@
-## Open Source > ToastUI Chart > Overview
+## Open Source > ToastUI Chart > 
 
 ![Logo](https://cloud.githubusercontent.com/assets/7088720/21300155/e52f31ae-c5e4-11e6-8d6a-d660a48d0d50.png)
 ===============
