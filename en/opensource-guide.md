@@ -1,6 +1,4 @@
-## Open Source > ToastUI Chart > Getting started
-
-# Getting started
+## Open Source > ToastUI Chart > Open Source Guide
 
 ## Download
 
