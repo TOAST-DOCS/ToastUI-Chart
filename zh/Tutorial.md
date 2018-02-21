@@ -1,6 +1,4 @@
-## Open Source > ToastUI Chart > Tutorial
-
-# Tutorial
+## Open Source > ToastUI Chart > 튜토리얼
 
 * Chart Types
     * [Bar, Column chart](https://github.com/nhnent/tui.chart/wiki/chart-types-bar,column)
