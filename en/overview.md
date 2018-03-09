@@ -64,7 +64,6 @@ Toast UI Chart supports a easy way to draw various and essential charts on your 
 * **Getting started** : [https://github.com/nhnent/tui.chart/wiki/getting-started/](https://github.com/nhnent/tui.chart/wiki/getting-started/)
 * **Tutorial** : [https://github.com/nhnent/tui.chart/wiki/tutorial/](https://github.com/nhnent/tui.chart/wiki/tutorial/)
 * **API** : [https://nhnent.github.io/tui.chart/latest/](https://nhnent.github.io/tui.chart/latest/)
-* **Sample** : [https://nhnent.github.io/tui.chart/latest/tutorial.html](https://nhnent.github.io/tui.chart/latest/tutorial.html)
 
 ## Dependency
 * tui.code-snippet 1.0.8
