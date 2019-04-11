@@ -61,15 +61,9 @@ Toast UI Chart supports a easy way to draw various and essential charts on your 
 ![treemap chart](http://static.toastoven.net/prod_toastuichart/treemap_chart.png)
 
 ## Documentation
-<<<<<<< HEAD:zh/overview.md
-* **Getting started** : [https://github.com/nhnent/tui.chart/wiki/getting-started/](https://github.com/nhnent/tui.chart/wiki/getting-started/)
-* **Tutorial** : [https://github.com/nhnent/tui.chart/wiki/tutorial/](https://github.com/nhnent/tui.chart/wiki/tutorial/)
-* **API** : [https://nhnent.github.io/tui.chart/latest/](https://nhnent.github.io/tui.chart/latest/)
-=======
 * **Getting started** : [https://github.com/nhn/tui.chart/wiki/getting-started/](https://github.com/nhn/tui.chart/wiki/getting-started/)
 * **Tutorial** : [https://github.com/nhn/tui.chart/wiki/tutorial/](https://github.com/nhn/tui.chart/wiki/tutorial/)
 * **API** : [https://nhn.github.io/tui.chart/latest/](https://nhn.github.io/tui.chart/latest/)
->>>>>>> beta:zh/overview.md
 
 ## Dependency
 * tui.code-snippet 1.0.8
