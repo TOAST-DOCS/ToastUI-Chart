@@ -61,9 +61,15 @@ Toast UI Chart supports a easy way to draw various and essential charts on your 
 ![treemap chart](http://static.toastoven.net/prod_toastuichart/treemap_chart.png)
 
 ## Documentation
+<<<<<<< HEAD:zh/overview.md
 * **Getting started** : [https://github.com/nhnent/tui.chart/wiki/getting-started/](https://github.com/nhnent/tui.chart/wiki/getting-started/)
 * **Tutorial** : [https://github.com/nhnent/tui.chart/wiki/tutorial/](https://github.com/nhnent/tui.chart/wiki/tutorial/)
 * **API** : [https://nhnent.github.io/tui.chart/latest/](https://nhnent.github.io/tui.chart/latest/)
+=======
+* **Getting started** : [https://github.com/nhn/tui.chart/wiki/getting-started/](https://github.com/nhn/tui.chart/wiki/getting-started/)
+* **Tutorial** : [https://github.com/nhn/tui.chart/wiki/tutorial/](https://github.com/nhn/tui.chart/wiki/tutorial/)
+* **API** : [https://nhn.github.io/tui.chart/latest/](https://nhn.github.io/tui.chart/latest/)
+>>>>>>> alpha:zh/overview.md
 
 ## Dependency
 * tui.code-snippet 1.0.8
@@ -86,11 +92,11 @@ bower install tui-chart
 ```
 
 * Download
-    * [https://github.com/nhnent/tui.chart](https://github.com/nhnent/tui.chart)
+    * [https://github.com/nhn/tui.chart](https://github.com/nhn/tui.chart)
 
 ## Release History
-* [https://github.com/nhnent/tui.chart/releases](https://github.com/nhnent/tui.chart/releases)
+* [https://github.com/nhn/tui.chart/releases](https://github.com/nhn/tui.chart/releases)
 
 ## License
-This software is licensed under the [MIT License](https://github.com/nhnent/tui.chart/blob/master/LICENSE).
+This software is licensed under the [MIT License](https://github.com/nhn/tui.chart/blob/master/LICENSE).
 
