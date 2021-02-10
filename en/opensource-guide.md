@@ -1,8 +1,8 @@
-## Open Source > ToastUI Chart > Open Source Guide
+## Open Source > NHN CloudUI Chart > Open Source Guide
 
 ## Download
 
-You should download Toast UI Chart files and associated libraries.
+You should download NHN Cloud UI Chart files and associated libraries.
 This is dependent on tui.code-snippet, tui.component-effects and Raphael.js.
 
 #### Install with Bower
