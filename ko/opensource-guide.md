@@ -1,4 +1,4 @@
-## Open Source > NHN CloudUI Chart > 오픈 소스 사용 가이드
+## Open Source > NHN Cloud UI Chart > 오픈 소스 사용 가이드
 
 ## Download
 
