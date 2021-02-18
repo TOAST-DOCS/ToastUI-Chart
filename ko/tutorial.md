@@ -1,4 +1,4 @@
-## Open Source > ToastUI Chart > 튜토리얼
+## Open Source > NHN Cloud UI Chart > 튜토리얼
 
 * Chart Types
     * [Bar, Column chart](https://github.com/nhn/tui.chart/wiki/chart-types-bar,column)
