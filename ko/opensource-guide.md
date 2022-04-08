@@ -10,7 +10,6 @@ NHN Cloud TOAST UI 제품들은 [npm](https://www.npmjs.com/) 패키지 매니�
 각 패키지 매니저가 제공하는 CLI 도구를 사용하면 쉽게 패키지를 설치할 수 있다. npm 사용을 위해선 [Node.js](https://nodejs.org)를 미리 설치해야 한다.
 
 #### npm
-
 ```sh
 $ npm install --save @toast-ui/chart # 최신 버전
 $ npm install --save @toast-ui/chart@<version> # 특정 버전

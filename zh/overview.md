@@ -1,6 +1,6 @@
 ## Open Source > NHN Cloud UI Chart > Overview
 
-# ![Toast UI Chart](https://user-images.githubusercontent.com/35218826/37320160-c4d6dec4-26b5-11e8-9a91-79bb2b882410.png)
+# ![NHN Cloud TOAST UI Chart](https://user-images.githubusercontent.com/35218826/37320160-c4d6dec4-26b5-11e8-9a91-79bb2b882410.png)
 
 > 🍞📈 Spread your data on NHN Cloud TOAST UI Chart. NHN Cloud TOAST UI Chart is Beautiful Statistical Data Visualization library.
 
@@ -125,7 +125,7 @@ Here are more [examples](http://nhn.github.io/tui.chart/latest/tutorial-example0
 
 ## 🔧 Pull Request Steps
 
-TOAST UI products are open source, so you can create a pull request(PR) after you fix issues.
+NHN Cloud TOAST UI products are open source, so you can create a pull request(PR) after you fix issues.
 Run npm scripts and develop yourself with the following process.
 
 ### Setup
@@ -186,13 +186,13 @@ For more information on PR's steps, please see links in the Contributing section
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                               Yes                                                                                |                                                                                   10+                                                                                   |                                                                             Yes                                                                              |                                                                               Yes                                                                                |                                                                                Yes                                                                                 |
 
-## 🍞 TOAST UI Family
+## 🍞 NHN Cloud TOAST UI Family
 
-- [TOAST UI Editor](https://github.com/nhn/tui.editor)
-- [TOAST UI Grid](https://github.com/nhn/tui.grid)
-- [TOAST UI Calendar](https://github.com/nhn/tui.calendar)
-- [TOAST UI Image-Editor](https://github.com/nhn/tui.image-editor)
-- [TOAST UI Components](https://github.com/nhn)
+- [NHN Cloud TOAST UI Editor](https://github.com/nhn/tui.editor)
+- [NHN Cloud TOAST UI Grid](https://github.com/nhn/tui.grid)
+- [NHN Cloud TOAST UI Calendar](https://github.com/nhn/tui.calendar)
+- [NHN Cloud TOAST UI Image-Editor](https://github.com/nhn/tui.image-editor)
+- [NHN Cloud TOAST UI Components](https://github.com/nhn)
 
 ## 🚀 Used By
 

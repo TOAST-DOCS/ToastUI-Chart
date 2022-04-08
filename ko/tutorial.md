@@ -22,7 +22,6 @@
 - [Gauge 차트](./chart-gauge.md)
 
 ### 공통
-
 - [내보내기](./common-exportMenu.md)
 - [범례](./common-legend.md)
 - [플롯](./common-plot.md)

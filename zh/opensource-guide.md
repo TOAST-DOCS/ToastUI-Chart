@@ -12,7 +12,6 @@ Install by using the commands provided by a package manager.
 When using npm, be sure [Node.js](https://nodejs.org) is installed in the environment.
 
 #### npm
-
 ```sh
 $ npm install --save @toast-ui/chart # Latest version
 $ npm install --save @toast-ui/chart@<version> # Specific version

@@ -21,7 +21,6 @@
 - [Gauge Chart](https://github.com/nhn/tui.chart/blob/main/docs/en/chart-gauge.md)
 
 ### Common
-
 - [Export menu](https://github.com/nhn/tui.chart/blob/main/docs/en/common-exportMenu.md)
 - [Legend](https://github.com/nhn/tui.chart/blob/main/docs/en/common-legend.md)
 - [Plot](https://github.com/nhn/tui.chart/blob/main/docs/en/common-plot.md)
